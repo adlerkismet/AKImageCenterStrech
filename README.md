@@ -17,9 +17,11 @@ UIImage *horizonStrechedImage = [originImage stretchWithFinalWidth:240 leftCapIn
 UIImage *centerStrechImage = [horizonStrechedImage stretchWithFinalHeight:240 topCapInset:40 topStretchSpacing:2 bottomCapInset:40 bottomStretchSpacing:2];
 ```
 * orgin image:
+
 ![AKImageCenterStrech-tenArrow.png](http://kisscu.com/wp-content/uploads/2018/07/AKImageCenterStrech-tenArrow.png)
 
 * strech image:
+
 ![AKImageCenterStrech-demo.png](http://kisscu.com/wp-content/uploads/2018/07/AKImageCenterStrech-demo-473x1024.png)
 
 
