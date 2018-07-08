@@ -25,4 +25,5 @@ UIImage *centerStrechImage = [horizonStrechedImage stretchWithFinalHeight:240 to
 ![AKImageCenterStrech-demo.png](http://kisscu.com/wp-content/uploads/2018/07/AKImageCenterStrech-demo-473x1024.png)
 
 * How to completion：
+
 [AKImageCenterStrech-一行代码中心对称拉伸图片](http://kisscu.com/2018/07/09/akimagecenterstrech-%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E6%8B%89%E4%BC%B8%E5%9B%BE%E7%89%87/)
